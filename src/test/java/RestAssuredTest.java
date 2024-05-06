@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 public class RestAssuredTest {
 
-    // API Global BASE URL Variable
+    // API Global BASE URI Variable
     String baseUrl = "https://reqres.in/";
 
     //Let´s execute a simple request to check Rest Assured
